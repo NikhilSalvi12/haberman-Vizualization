@@ -1,4 +1,4 @@
-# haberman-Vizualization
+# Haberman-Vizualization
 Visualize and draw conclusion on the data based on observation
 
 # Overview
